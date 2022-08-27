@@ -1,0 +1,4 @@
+export enum ROUTER_NAME_LIST {
+  DASHBOARD = 'DASHBOARD',
+  LOGIN = 'LOGIN'
+}
